@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a menu-driven application with the following functionalities:
+This is a menu-driven Java application with the following functionalities:
 
 1. **Add Amount to Payment Wallet Account**
 2. **Show Payment Wallet Account Balance**
