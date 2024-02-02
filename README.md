@@ -18,15 +18,15 @@ This is a menu-driven application with the following functionalities:
 
 ![Balance](https://github.com/github2411/Wallet-Application/blob/main/output2.PNG)
 
-![output3](E:\JavaSpring\eclipse practice code\wallet application code outputs/output3.png)
+![output3](https://github.com/github2411/Wallet-Application/blob/main/output3.PNG)
 
-![output4](E:\JavaSpring\eclipse practice code\wallet application code outputs/output4.png)
+![output4](https://github.com/github2411/Wallet-Application/blob/main/output4.PNG)
 
-![output5](E:\JavaSpring\eclipse practice code\wallet application code outputs/output5.png)
+![output5](https://github.com/github2411/Wallet-Application/blob/main/output5.PNG)
 
-![output6](E:\JavaSpring\eclipse practice code\wallet application code outputs/output6.png)
+![output6](https://github.com/github2411/Wallet-Application/blob/main/output6.PNG)
 
-![output7](E:\JavaSpring\eclipse practice code\wallet application code outputs/output7.png)
+![output7](https://github.com/github2411/Wallet-Application/blob/main/output7.PNG)
 
 
 
