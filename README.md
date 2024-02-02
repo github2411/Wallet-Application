@@ -16,7 +16,7 @@ This is a menu-driven application with the following functionalities:
 
 ![Add Amount](https://github.com/github2411/Wallet-Application/blob/main/output1.PNG?raw=true)
 
-![Balance](E:\JavaSpring\eclipse practice code\wallet application code outputs/output2.png)
+![Balance](https://github.com/github2411/Wallet-Application/blob/main/output2.PNG)
 
 ![output3](E:\JavaSpring\eclipse practice code\wallet application code outputs/output3.png)
 
